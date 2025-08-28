@@ -1,4 +1,4 @@
-<h1 align="center">Lista de Tarefas - API REST</h1>
+<h1 align="center">Lista de Tarefas - Frontend (WEB)</h1>
 <p align="center">API RESTful para um sistema de gerenciamento de tarefas (To-Do List), desenvolvida com Spring Boot.</p>
 
 <p align="center">
