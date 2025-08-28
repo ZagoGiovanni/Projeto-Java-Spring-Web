@@ -68,7 +68,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 ## Autor
 
-**Giovanni Zago**
+**Giovanni dos Santos Zago**
 
 - LinkedIn: `https://www.linkedin.com/in/giovanni-zago-058891290/`
 - GitHub: `https://github.com/ZagoGiovanni`
