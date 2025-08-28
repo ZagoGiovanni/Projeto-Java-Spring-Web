@@ -1,5 +1,5 @@
-<h1 align="center">Lista de Tarefas - Frontend (WEB)</h1>
-<p align="center">API RESTful para um sistema de gerenciamento de tarefas (To-Do List), desenvolvida com Spring Boot.</p>
+<h1 align="center">Lista de Tarefas - Aplicação Web</h1>
+<p align="center">Interface web para o sistema de gerenciamento de tarefas (To-Do List), desenvolvida com Angular.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-21-blue?style=for-the-badge&logo=java" alt="Java 21">
@@ -11,7 +11,7 @@
 <details>
   <summary><strong>📝 Sobre o Projeto</strong></summary>
   <br>
-  Esta API foi criada para servir como o backend da aplicação "Lista de Tarefas". Ela gerencia todas as operações de CRUD (Criar, Ler, Atualizar e Deletar) para as tarefas, utilizando uma arquitetura RESTful.
+  Esta é a interface de usuário (Frontend) da aplicação "Lista de Tarefas". Ela consome a API REST para fornecer uma experiência interativa, permitindo que o usuário gerencie suas tarefas de forma visual e intuitiva.
 
   O projeto foi desenvolvido seguindo o tutorial "Projeto Aplicação Full Stack" do professor Ricardo Tec.
 </details>
@@ -20,9 +20,9 @@
 
 Este projeto corresponde à API (Backend) da aplicação "Lista de Tarefas". A solução completa é modularizada em três repositórios independentes para garantir a separação de responsabilidades.
 
+* **Frontend (Esta Aplicação):** Interface web desenvolvida com Angular que consome os dados da API.
 * **Backend (API REST):** API RESTful desenvolvida com Spring Boot que serve como o núcleo da aplicação.
-    * ➡️ **Link para o repositório:** `[COLOQUE O LINK PARA O SEU REPOSITÓRIO FRONTEND AQUI]`
-* **Frontend (Este Repositório):** Interface web desenvolvida com Angular.
+    * ➡️ **Link para o repositório:** `[COLOQUE O LINK PARA O SEU REPOSITÓRIO DA API AQUI]`
 * **Desktop:** Aplicação de desktop (a ser desenvolvida).
     * ➡️ **Link para o repositório:** `[COLOQUE O LINK PARA O SEU REPOSITÓRIO DESKTOP AQUI]`
 
@@ -37,6 +37,15 @@ Este projeto corresponde à API (Backend) da aplicação "Lista de Tarefas". A s
 * **Mapeamento Objeto-Relacional:** Spring Data JPA / Hibernate
 
 ## 🚀 Como Executar o Projeto
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina:
+* [Node.js e npm](https://nodejs.org/en/) - Versão LTS.
+* [Angular CLI](https://angular.dev/cli) - Versão 20 ou superior.
+* [Git](https://git-scm.com/downloads).
+
+### Rodando a Aplicação
 
 1.  **Clone o repositório:**
     ```bash
