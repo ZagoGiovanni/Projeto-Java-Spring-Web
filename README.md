@@ -49,7 +49,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/lista-tarefas-api.git](https://github.com/seu-usuario/lista-tarefas-api.git)
+    git clone [https://github.com/ZagoGiovanni/Projeto-Java-Spring-Web.git]
     ```
 
 2.  **Navegue até a pasta do projeto:**
